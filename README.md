@@ -16,6 +16,6 @@
 
 ![4](https://user-images.githubusercontent.com/47839471/156860161-403db1f8-62ae-46b1-aaa7-80b518ad9b19.png)
 
-# Epi Data Schemas
+# Api Data Schemas
 
 ![5](https://user-images.githubusercontent.com/47839471/156860174-f9bed527-d521-4e07-aed3-d85d18d9c132.png)
